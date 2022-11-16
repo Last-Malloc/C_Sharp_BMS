@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{074E17F8-31EE-4300-ADF2-B1EB1B7E1D6F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>图书管理系统</RootNamespace>
+    <AssemblyName>图书管理系统</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Controls, Version=2.2.5.0, Culture=neutral, PublicKeyToken=a8ac264d1dc6b9d9, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Controls.2.2.5\lib\AForge.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging, Version=2.2.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Imaging.2.2.5\lib\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Math, Version=2.2.5.0, Culture=neutral, PublicKeyToken=abba2e25397ee8c9, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Math.2.2.5\lib\AForge.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="AipSdk, Version=3.6.14.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Baidu.AI.3.6.14\lib\net45\AipSdk.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <HintPath>..\packages\Office.12.0.0\lib\net40\Office.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=0.12.0.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\zxing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="barcodeclass.cs" />
+    <Compile Include="BMSDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BMSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BMSDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BMSDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BMSDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BMSDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BMSDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BMSDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BMSDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BMSDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BMSDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BMSDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BMSDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BMSDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DocementBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ExportToExcel.cs" />
+    <Compile Include="imageDocument.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="普通用户\mareturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="普通用户\mareturn.Designer.cs">
+      <DependentUpon>mareturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="普通用户\returnbooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="普通用户\returnbooks.Designer.cs">
+      <DependentUpon>returnbooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="普通用户\xujie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="普通用户\xujie.Designer.cs">
+      <DependentUpon>xujie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="普通用户\borrowbooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="普通用户\borrowbooks.Designer.cs">
+      <DependentUpon>borrowbooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="登录界面\email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="登录界面\email.Designer.cs">
+      <DependentUpon>email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\ActiveUserStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\ActiveUserStatistics.Designer.cs">
+      <DependentUpon>ActiveUserStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="登录界面\FaceLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="登录界面\FaceLogin.Designer.cs">
+      <DependentUpon>FaceLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\addbook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\addbook.Designer.cs">
+      <DependentUpon>addbook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\AddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\AddCategory.Designer.cs">
+      <DependentUpon>AddCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\addma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\addma.Designer.cs">
+      <DependentUpon>addma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\bookinquiry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\bookinquiry.Designer.cs">
+      <DependentUpon>bookinquiry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\changebook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\changebook.Designer.cs">
+      <DependentUpon>changebook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\ChangeCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\ChangeCategory.Designer.cs">
+      <DependentUpon>ChangeCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\deletebook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\deletebook.Designer.cs">
+      <DependentUpon>deletebook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\erweima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\erweima.Designer.cs">
+      <DependentUpon>erweima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\FaceRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\FaceRegister.Designer.cs">
+      <DependentUpon>FaceRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\halfyear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\halfyear.Designer.cs">
+      <DependentUpon>halfyear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\MyInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\MyInfo.Designer.cs">
+      <DependentUpon>MyInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\PeopleTypeMana.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\PeopleTypeMana.Designer.cs">
+      <DependentUpon>PeopleTypeMana.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\popularbook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\popularbook.Designer.cs">
+      <DependentUpon>popularbook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\Quarter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\Quarter.Designer.cs">
+      <DependentUpon>Quarter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\Querybookinformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\Querybookinformation.Designer.cs">
+      <DependentUpon>Querybookinformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\UnsealAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\UnsealAccount.Designer.cs">
+      <DependentUpon>UnsealAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\UserUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\UserUpdate.Designer.cs">
+      <DependentUpon>UserUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="登录界面\AutoLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="登录界面\AutoLogin.Designer.cs">
+      <DependentUpon>AutoLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="登录界面\ChangePW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="登录界面\ChangePW.Designer.cs">
+      <DependentUpon>ChangePW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="登录界面\CheckCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="登录界面\CheckCode.Designer.cs">
+      <DependentUpon>CheckCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="登录界面\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="登录界面\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="管理员\ManaWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\ManaWin.Designer.cs">
+      <DependentUpon>ManaWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="普通用户\UserWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="普通用户\UserWin.Designer.cs">
+      <DependentUpon>UserWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="登录界面\ValidCode.cs" />
+    <Compile Include="管理员\year1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员\year1.Designer.cs">
+      <DependentUpon>year1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="普通用户\mareturn.resx">
+      <DependentUpon>mareturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="普通用户\returnbooks.resx">
+      <DependentUpon>returnbooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="普通用户\xujie.resx">
+      <DependentUpon>xujie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="普通用户\borrowbooks.resx">
+      <DependentUpon>borrowbooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="登录界面\email.resx">
+      <DependentUpon>email.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\ActiveUserStatistics.resx">
+      <DependentUpon>ActiveUserStatistics.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="登录界面\FaceLogin.resx">
+      <DependentUpon>FaceLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\addbook.resx">
+      <DependentUpon>addbook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\AddCategory.resx">
+      <DependentUpon>AddCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\addma.resx">
+      <DependentUpon>addma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\bookinquiry.resx">
+      <DependentUpon>bookinquiry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\changebook.resx">
+      <DependentUpon>changebook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\ChangeCategory.resx">
+      <DependentUpon>ChangeCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\deletebook.resx">
+      <DependentUpon>deletebook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\erweima.resx">
+      <DependentUpon>erweima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\FaceRegister.resx">
+      <DependentUpon>FaceRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\halfyear.resx">
+      <DependentUpon>halfyear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\MyInfo.resx">
+      <DependentUpon>MyInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\PeopleTypeMana.resx">
+      <DependentUpon>PeopleTypeMana.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\popularbook.resx">
+      <DependentUpon>popularbook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\Quarter.resx">
+      <DependentUpon>Quarter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\Querybookinformation.resx">
+      <DependentUpon>Querybookinformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\UnsealAccount.resx">
+      <DependentUpon>UnsealAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\UserUpdate.resx">
+      <DependentUpon>UserUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="登录界面\AutoLogin.resx">
+      <DependentUpon>AutoLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="登录界面\ChangePW.resx">
+      <DependentUpon>ChangePW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="登录界面\CheckCode.resx">
+      <DependentUpon>CheckCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="登录界面\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\ManaWin.resx">
+      <DependentUpon>ManaWin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="普通用户\UserWin.resx">
+      <DependentUpon>UserWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员\year1.resx">
+      <DependentUpon>year1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="BMSDataSet.xsc">
+      <DependentUpon>BMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BMSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BMSDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BMSDataSet.xss">
+      <DependentUpon>BMSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BMSDataSet1.xsc">
+      <DependentUpon>BMSDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BMSDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BMSDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BMSDataSet1.xss">
+      <DependentUpon>BMSDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BMSDataSet2.xsc">
+      <DependentUpon>BMSDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="BMSDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BMSDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BMSDataSet2.xss">
+      <DependentUpon>BMSDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="BMSDataSet3.xsc">
+      <DependentUpon>BMSDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="BMSDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BMSDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BMSDataSet3.xss">
+      <DependentUpon>BMSDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="BMSDataSet4.xsc">
+      <DependentUpon>BMSDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="BMSDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BMSDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BMSDataSet4.xss">
+      <DependentUpon>BMSDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="BMSDataSet5.xsc">
+      <DependentUpon>BMSDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="BMSDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BMSDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BMSDataSet5.xss">
+      <DependentUpon>BMSDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="BMSDataSet6.xsc">
+      <DependentUpon>BMSDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="BMSDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BMSDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BMSDataSet6.xss">
+      <DependentUpon>BMSDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="图片\小按钮\登录按钮.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="图片\背景\更改密码.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="图片\默认用户头像\moren.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

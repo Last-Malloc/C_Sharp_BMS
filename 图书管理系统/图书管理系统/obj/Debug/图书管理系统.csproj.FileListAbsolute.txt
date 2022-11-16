@@ -1,0 +1,312 @@
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\图书管理系统.exe.config
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\图书管理系统.exe
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\图书管理系统.pdb
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Login.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Properties.Resources.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.exe
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.pdb
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.ManaWin.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.UserWin.resources
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.csprojAssemblyReference.cache
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Login.resources
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.ManaWin.resources
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Properties.Resources.resources
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.UserWin.resources
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.csproj.GenerateResource.cache
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.csproj.CoreCompileInputs.cache
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.exe
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.pdb
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\图书管理系统.exe.config
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\图书管理系统.exe
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\图书管理系统.pdb
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.ChangePW.resources
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.CheckCode.resources
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.AutoLogin.resources
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.MyInfo.resources
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.PeopleTypeMana.resources
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.ActiveUserStatistics.resources
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.UnsealAccount.resources
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.UserUpdate.resources
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\AForge.Controls.dll
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\AForge.dll
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\AForge.Imaging.dll
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\AForge.Math.dll
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\AForge.Video.DirectShow.dll
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\AForge.Video.dll
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\AipSdk.dll
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\Newtonsoft.Json.dll
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\AForge.xml
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\AForge.Controls.xml
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\AForge.Imaging.xml
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\AForge.Math.xml
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\AForge.Video.xml
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\AForge.Video.DirectShow.xml
+D:\D盘桌面\图书管理系统\图书管理系统\bin\Debug\Newtonsoft.Json.xml
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.FaceLogin.resources
+D:\D盘桌面\图书管理系统\图书管理系统\obj\Debug\图书管理系统.csproj.CopyComplete
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.exe.config
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.exe
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.pdb
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Controls.dll
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.dll
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Imaging.dll
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Math.dll
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Video.DirectShow.dll
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Video.dll
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\AipSdk.dll
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\Newtonsoft.Json.dll
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.xml
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Controls.xml
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Imaging.xml
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Math.xml
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Video.xml
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Video.DirectShow.xml
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\bin\Debug\Newtonsoft.Json.xml
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.csprojAssemblyReference.cache
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.ActiveUserStatistics.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.FaceLogin.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.MyInfo.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.PeopleTypeMana.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.UnsealAccount.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.UserUpdate.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.AutoLogin.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.ChangePW.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.CheckCode.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.Login.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.ManaWin.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.Properties.Resources.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.UserWin.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.csproj.GenerateResource.cache
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.csproj.CoreCompileInputs.cache
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.csproj.CopyComplete
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.exe
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.pdb
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.borrowbooks.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.returnbooks.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.popularbook.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.halfyear.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.Quarter.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.ExportToExcel.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.AddCategory.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.erweima.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.ChangeCategory.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.bookinquiry.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.addbook.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.changebook.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.Querybookinformation.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.deletebook.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.xujie.resources
+D:\D盘桌面\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.FaceRegister.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.exe.config
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.exe
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.pdb
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Controls.dll
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.dll
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Imaging.dll
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Math.dll
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Video.dll
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\AipSdk.dll
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.xml
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Controls.xml
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Imaging.xml
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Math.xml
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Video.xml
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.csprojAssemblyReference.cache
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.returnbooks.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.xujie.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.borrowbooks.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.ActiveUserStatistics.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.FaceLogin.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.addbook.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.AddCategory.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.bookinquiry.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.changebook.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.ChangeCategory.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.deletebook.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.erweima.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.FaceRegister.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.MyInfo.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.PeopleTypeMana.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.popularbook.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.Quarter.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.Querybookinformation.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.UnsealAccount.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.UserUpdate.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.AutoLogin.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.ChangePW.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.CheckCode.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.Login.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.ManaWin.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.Properties.Resources.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.UserWin.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.csproj.GenerateResource.cache
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.csproj.CoreCompileInputs.cache
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.csproj.CopyComplete
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.exe
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.pdb
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.管理员.addma.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.普通用户.mareturn.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.管理员.year1.resources
+C:\Users\yxh\Desktop\C#BMS\图书管理系统 - 副本\图书管理系统\obj\Debug\图书管理系统.halfyear.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\图书管理系统.exe.config
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\图书管理系统.exe
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\图书管理系统.pdb
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Controls.dll
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.dll
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Imaging.dll
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Math.dll
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Video.DirectShow.dll
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Video.dll
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\AipSdk.dll
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\Newtonsoft.Json.dll
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.xml
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Controls.xml
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Imaging.xml
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Math.xml
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Video.xml
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Video.DirectShow.xml
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\bin\Debug\Newtonsoft.Json.xml
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.csprojAssemblyReference.cache
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.普通用户.mareturn.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.returnbooks.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.xujie.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.borrowbooks.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.ActiveUserStatistics.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.FaceLogin.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.addbook.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.AddCategory.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.管理员.addma.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.bookinquiry.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.changebook.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.ChangeCategory.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.deletebook.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.erweima.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.FaceRegister.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.halfyear.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.MyInfo.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.PeopleTypeMana.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.popularbook.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.Quarter.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.Querybookinformation.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.UnsealAccount.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.UserUpdate.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.AutoLogin.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.ChangePW.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.CheckCode.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.Login.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.ManaWin.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.Properties.Resources.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.UserWin.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.管理员.year1.resources
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.csproj.GenerateResource.cache
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.csproj.CoreCompileInputs.cache
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.csproj.CopyComplete
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.exe
+D:\Z-D盘桌面\C#图书管理系统\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.pdb
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.csprojAssemblyReference.cache
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.普通用户.mareturn.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.returnbooks.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.xujie.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.borrowbooks.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.登录界面.email.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.ActiveUserStatistics.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.FaceLogin.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.addbook.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.AddCategory.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.管理员.addma.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.bookinquiry.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.changebook.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.ChangeCategory.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.deletebook.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.erweima.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.FaceRegister.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.halfyear.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.MyInfo.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.PeopleTypeMana.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.popularbook.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.Quarter.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.Querybookinformation.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.UnsealAccount.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.UserUpdate.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.AutoLogin.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.ChangePW.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.CheckCode.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.Login.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.ManaWin.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.Properties.Resources.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.UserWin.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.管理员.year1.resources
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.csproj.GenerateResource.cache
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.csproj.CoreCompileInputs.cache
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.exe
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.pdb
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\图书管理系统.exe.config
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\图书管理系统.exe
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\图书管理系统.pdb
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Controls.dll
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.dll
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Imaging.dll
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Math.dll
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Video.dll
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\AipSdk.dll
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.xml
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Controls.xml
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Imaging.xml
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Math.xml
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Video.xml
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yxh\Desktop\图书管理系统_9.26\图书管理系统\obj\Debug\图书管理系统.csproj.CopyComplete
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\AForge.Controls.dll
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\AForge.dll
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\AForge.Imaging.dll
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\AForge.Math.dll
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\AForge.Video.dll
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\AipSdk.dll
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\AForge.xml
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\AForge.Controls.xml
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\AForge.Imaging.xml
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\AForge.Math.xml
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\AForge.Video.xml
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.普通用户.mareturn.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.returnbooks.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.xujie.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.borrowbooks.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.登录界面.email.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.ActiveUserStatistics.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.FaceLogin.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.addbook.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.AddCategory.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.管理员.addma.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.bookinquiry.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.changebook.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.ChangeCategory.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.deletebook.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.erweima.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.FaceRegister.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.halfyear.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.MyInfo.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.PeopleTypeMana.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.popularbook.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Quarter.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.Querybookinformation.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.UnsealAccount.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.UserUpdate.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.AutoLogin.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.ChangePW.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.CheckCode.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.管理员.year1.resources
+C:\Users\hp\Desktop\图书管理系统\图书管理系统\obj\Debug\图书管理系统.csproj.CopyComplete
